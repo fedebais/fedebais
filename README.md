@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fedebais
-- 🌱 I’m currently leading canadoctors 
-- 📫 How to reach me / info@canadoctors.com
+- 🌱 I’m currently leading encom
+- 📫 How to reach me / fb@wearencom.com
 
 <!---
 fedebais/fedebais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
